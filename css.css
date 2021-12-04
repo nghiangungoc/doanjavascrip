@@ -1,0 +1,18 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+.flex{
+    margin: 10px;
+    border: 1 solid #ccc;
+}
+.flex label{
+    display: block;
+   
+}
+.flex span{
+    color: rgb(252, 2, 2);
+}
+.flex button{
+    display: block;
+}
+.flex input, label{
+    margin-bottom: 1em;
+}
